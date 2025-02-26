@@ -2,7 +2,7 @@
 
 ## Descrição
 
-Este repositório contém materiais e exercícios relacionados ao curso de Sistemas Operacionais I. O curso abrange diversos tópicos fundamentais para o entendimento e a prática de sistemas operacionais, incluindo gerenciamento de arquivos, algoritmos de controle de concorrência, virtualização e gerenciamento de processos.
+Este repositório contém exercícios relacionados a matéria de Sistemas Operacionais I. A matéria abrange diversos tópicos fundamentais para o entendimento e a prática de sistemas operacionais, incluindo gerenciamento de arquivos, algoritmos de controle de concorrência, virtualização e gerenciamento de processos.
 
 ## Conteúdo
 
